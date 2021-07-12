@@ -1,0 +1,6 @@
+* text=auto
+
+LICENSE eol=lf
+
+*.sh eol=lf
+*.rtf -text

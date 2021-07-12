@@ -1,0 +1,8 @@
+.DS_Store
+.cache
+Thumbs.db
+.build/
+out/
+dist/
+coverage/
+*.log
